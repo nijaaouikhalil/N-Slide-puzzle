@@ -1,4 +1,4 @@
-# N-Slide-puzzle
+# COMP472 Assignment 2
 * Submission for Assignment 2, COMP 472: Artificial Intelligence
 * **Team Members:**
   * Adrian Patterson 40048841

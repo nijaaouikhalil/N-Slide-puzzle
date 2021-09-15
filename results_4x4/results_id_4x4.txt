@@ -1,0 +1,89 @@
+------Puzzle 1------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 2------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 3------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 4------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 5------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 6------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 7------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 8------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 9------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 10------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 11------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 12------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 13------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 14------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 15------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 16------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 17------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 18------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 19------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 20------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+
+ ------Analysis------
+Total solution length: 0
+Average solution length: 0.00
+Total solution cost: 0
+Average solution cost: 0.00
+Average execution time: 0.00 seconds 
+Total no solution: 20
+Average no solution: 100.00%

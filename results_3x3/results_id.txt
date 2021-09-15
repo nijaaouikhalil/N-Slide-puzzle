@@ -1,0 +1,95 @@
+------Puzzle 1------
+Solution found with max depth of: 7
+Time to solve: 43.77 seconds 
+Length of iterative deepening: 645752
+Cost of solution: 15497955
+Optimality of solution: 4.17% 
+
+------Puzzle 2------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 3------
+Solution found with max depth of: 7
+Time to solve: 0.31 seconds 
+Length of iterative deepening: 4618
+Cost of solution: 110784
+Optimality of solution: 4.17% 
+
+------Puzzle 4------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 5------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 6------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 7------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 8------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 9------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 10------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 11------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 12------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 13------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 14------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 15------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 16------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 17------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 18------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 19------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+------Puzzle 20------
+No solution found with max depth of: 7
+Time elapsed: 60.0 seconds 
+
+
+ ------Analysis------
+Total solution length: 650370
+Average solution length: 325185.00
+Total solution cost: 15608739
+Average solution cost: 7804369.50
+Average execution time: 22.04 seconds 
+Total no solution: 18
+Average no solution: 90.00% 

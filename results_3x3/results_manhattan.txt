@@ -1,0 +1,149 @@
+------Puzzle 1------
+Solution found 
+Time to solve: 0.0 seconds 
+Length of manhattan distance: 6
+Cost of solution: 144
+Optimality of solution: 4.17% 
+
+------Puzzle 2------
+Solution found 
+Time to solve: 0.02 seconds 
+Length of manhattan distance: 17
+Cost of solution: 408
+Optimality of solution: 4.17% 
+
+------Puzzle 3------
+Solution found 
+Time to solve: 0.0 seconds 
+Length of manhattan distance: 4
+Cost of solution: 96
+Optimality of solution: 4.17% 
+
+------Puzzle 4------
+Solution found 
+Time to solve: 0.0 seconds 
+Length of manhattan distance: 8
+Cost of solution: 192
+Optimality of solution: 4.17% 
+
+------Puzzle 5------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 12
+Cost of solution: 288
+Optimality of solution: 4.17% 
+
+------Puzzle 6------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 14
+Cost of solution: 336
+Optimality of solution: 4.17% 
+
+------Puzzle 7------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 14
+Cost of solution: 336
+Optimality of solution: 4.17% 
+
+------Puzzle 8------
+Solution found 
+Time to solve: 0.02 seconds 
+Length of manhattan distance: 22
+Cost of solution: 528
+Optimality of solution: 4.17% 
+
+------Puzzle 9------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 17
+Cost of solution: 408
+Optimality of solution: 4.17% 
+
+------Puzzle 10------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 12
+Cost of solution: 288
+Optimality of solution: 4.17% 
+
+------Puzzle 11------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 13
+Cost of solution: 312
+Optimality of solution: 4.17% 
+
+------Puzzle 12------
+Solution found 
+Time to solve: 0.0 seconds 
+Length of manhattan distance: 10
+Cost of solution: 240
+Optimality of solution: 4.17% 
+
+------Puzzle 13------
+Solution found 
+Time to solve: 0.0 seconds 
+Length of manhattan distance: 8
+Cost of solution: 192
+Optimality of solution: 4.17% 
+
+------Puzzle 14------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 13
+Cost of solution: 312
+Optimality of solution: 4.17% 
+
+------Puzzle 15------
+Solution found 
+Time to solve: 0.02 seconds 
+Length of manhattan distance: 21
+Cost of solution: 504
+Optimality of solution: 4.17% 
+
+------Puzzle 16------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 12
+Cost of solution: 288
+Optimality of solution: 4.17% 
+
+------Puzzle 17------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 11
+Cost of solution: 264
+Optimality of solution: 4.17% 
+
+------Puzzle 18------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 11
+Cost of solution: 264
+Optimality of solution: 4.17% 
+
+------Puzzle 19------
+Solution found 
+Time to solve: 0.02 seconds 
+Length of manhattan distance: 22
+Cost of solution: 528
+Optimality of solution: 4.17% 
+
+------Puzzle 20------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of manhattan distance: 14
+Cost of solution: 336
+Optimality of solution: 4.17% 
+
+
+ ------Analysis------
+Total solution length: 261
+Average solution length: 13.05
+Total solution cost: 6264
+Average solution cost: 313.20
+Average execution time: 0.01 seconds 
+Total no solution: 0
+Average no solution: 0.00% 

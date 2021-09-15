@@ -1,0 +1,98 @@
+------Puzzle 1------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 2------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 3------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 4------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 5------
+Solution found 
+Time to solve: 2.0 seconds 
+Length of hamming distance: 69
+Cost of solution: 3312
+Optimality of solution: 2.08% 
+
+------Puzzle 6------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 7------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 8------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 9------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 10------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 11------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 12------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 13------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 14------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 15------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 16------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 17------
+Solution found 
+Time to solve: 9.97 seconds 
+Length of hamming distance: 158
+Cost of solution: 7584
+Optimality of solution: 2.08% 
+
+------Puzzle 18------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 19------
+Solution found 
+Time to solve: 39.45 seconds 
+Length of hamming distance: 320
+Cost of solution: 15360
+Optimality of solution: 2.08% 
+
+------Puzzle 20------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+
+ ------Analysis------
+Total solution length: 547
+Average solution length: 182.33
+Total solution cost: 26256
+Average solution cost: 8752.00
+Average execution time: 17.14 seconds 
+Total no solution: 17
+Average no solution: 85.00% 

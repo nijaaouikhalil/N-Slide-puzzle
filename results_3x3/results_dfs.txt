@@ -1,0 +1,92 @@
+------Puzzle 1------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 2------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 3------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 4------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 5------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 6------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 7------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 8------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 9------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 10------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 11------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 12------
+Solution found 
+Time to solve: 45.1 seconds 
+Length of dfs: 4707
+Cost of solution: 112968
+Optimality of solution: 4.17% 
+
+------Puzzle 13------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 14------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 15------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 16------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 17------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 18------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 19------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+------Puzzle 20------
+No solution found 
+Time elapsed: 60.0 seconds 
+
+
+ ------Analysis------
+Total solution length: 4707
+Average solution length: 4707.00
+Total solution cost: 112968
+Average solution cost: 112968.00
+Average execution time: 45.10 seconds 
+Total no solution: 19
+Average no solution: 95.00% 

@@ -1,0 +1,149 @@
+------Puzzle 1------
+Solution found 
+Time to solve: 0.01 seconds 
+Length of hamming distance: 7
+Cost of solution: 168
+Optimality of solution: 4.17% 
+
+------Puzzle 2------
+Solution found 
+Time to solve: 0.47 seconds 
+Length of hamming distance: 53
+Cost of solution: 1272
+Optimality of solution: 4.17% 
+
+------Puzzle 3------
+Solution found 
+Time to solve: 0.0 seconds 
+Length of hamming distance: 5
+Cost of solution: 120
+Optimality of solution: 4.17% 
+
+------Puzzle 4------
+Solution found 
+Time to solve: 0.03 seconds 
+Length of hamming distance: 14
+Cost of solution: 336
+Optimality of solution: 4.17% 
+
+------Puzzle 5------
+Solution found 
+Time to solve: 0.33 seconds 
+Length of hamming distance: 46
+Cost of solution: 1104
+Optimality of solution: 4.17% 
+
+------Puzzle 6------
+Solution found 
+Time to solve: 0.08 seconds 
+Length of hamming distance: 23
+Cost of solution: 552
+Optimality of solution: 4.17% 
+
+------Puzzle 7------
+Solution found 
+Time to solve: 0.25 seconds 
+Length of hamming distance: 40
+Cost of solution: 960
+Optimality of solution: 4.17% 
+
+------Puzzle 8------
+Solution found 
+Time to solve: 1.67 seconds 
+Length of hamming distance: 108
+Cost of solution: 2592
+Optimality of solution: 4.17% 
+
+------Puzzle 9------
+Solution found 
+Time to solve: 0.06 seconds 
+Length of hamming distance: 20
+Cost of solution: 480
+Optimality of solution: 4.17% 
+
+------Puzzle 10------
+Solution found 
+Time to solve: 0.38 seconds 
+Length of hamming distance: 50
+Cost of solution: 1200
+Optimality of solution: 4.17% 
+
+------Puzzle 11------
+Solution found 
+Time to solve: 0.05 seconds 
+Length of hamming distance: 18
+Cost of solution: 432
+Optimality of solution: 4.17% 
+
+------Puzzle 12------
+Solution found 
+Time to solve: 0.02 seconds 
+Length of hamming distance: 12
+Cost of solution: 288
+Optimality of solution: 4.17% 
+
+------Puzzle 13------
+Solution found 
+Time to solve: 0.43 seconds 
+Length of hamming distance: 53
+Cost of solution: 1272
+Optimality of solution: 4.17% 
+
+------Puzzle 14------
+Solution found 
+Time to solve: 0.56 seconds 
+Length of hamming distance: 61
+Cost of solution: 1464
+Optimality of solution: 4.17% 
+
+------Puzzle 15------
+Solution found 
+Time to solve: 0.29 seconds 
+Length of hamming distance: 43
+Cost of solution: 1032
+Optimality of solution: 4.17% 
+
+------Puzzle 16------
+Solution found 
+Time to solve: 0.07 seconds 
+Length of hamming distance: 20
+Cost of solution: 480
+Optimality of solution: 4.17% 
+
+------Puzzle 17------
+Solution found 
+Time to solve: 0.18 seconds 
+Length of hamming distance: 34
+Cost of solution: 816
+Optimality of solution: 4.17% 
+
+------Puzzle 18------
+Solution found 
+Time to solve: 1.54 seconds 
+Length of hamming distance: 105
+Cost of solution: 2520
+Optimality of solution: 4.17% 
+
+------Puzzle 19------
+Solution found 
+Time to solve: 0.04 seconds 
+Length of hamming distance: 16
+Cost of solution: 384
+Optimality of solution: 4.17% 
+
+------Puzzle 20------
+Solution found 
+Time to solve: 0.02 seconds 
+Length of hamming distance: 11
+Cost of solution: 264
+Optimality of solution: 4.17% 
+
+
+ ------Analysis------
+Total solution length: 739
+Average solution length: 36.95
+Total solution cost: 17736
+Average solution cost: 886.80
+Average execution time: 0.32 seconds 
+Total no solution: 0
+Average no solution: 0.00% 
